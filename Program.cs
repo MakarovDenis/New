@@ -102,7 +102,7 @@ namespace _2_
                 }
             }
 
-            // Delay.
+            
             Console.ReadKey();
         }
     }
